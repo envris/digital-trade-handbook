@@ -1,0 +1,111 @@
+main {
+  margin-left: .5rem;
+
+  .content {
+    max-width: 650px;
+    margin: 0 auto 4rem;
+    line-height: 1.55;
+  }
+
+  h1.title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 2rem 0 2.5rem;
+    line-height: 1.25;
+
+    @media (max-width: $mobile-breakpoint) {
+      margin: 1rem 0 2rem;
+    }
+  }
+
+  h1, h2, h3 {
+    font-weight: 700;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+    margin: 2.3rem 0 1.2rem;
+    line-height: 1.3;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    margin: 1.7rem 0 .7rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin: 1.2rem 0 1.3rem;
+  }
+
+  p {
+    margin: .75rem 0 1.25rem;
+  }
+
+  i, em {
+    font-style: italic;
+  }
+
+  b, strong {
+    font-weight: bold;
+  }
+
+  blockquote {
+    background: $blockquote-background-color;
+    border-left: 4px solid $base-color;
+    padding: .2rem 1.5rem;
+    margin: 1.5rem 0;
+
+    p {
+      margin: 1.25rem 0;
+    }
+  }
+
+  pre, code {
+    font-family: "Fira Mono", monospace;
+    font-size: .85rem;
+    background: #f6f6f6;
+  }
+
+  code {
+    padding: .25rem;
+  }
+
+  pre {
+    padding: 1rem;
+    margin: 1.5rem 0;
+
+    code {
+      padding: 0;
+    }
+  }
+
+  .content ul, .content ol {
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+
+    li {
+      padding-left: .5rem;
+      margin: .075rem 0;
+    }
+  }
+
+  .content ul li {
+    list-style: disc;
+  }
+
+  .content ol li {
+    list-style: decimal;
+  }
+
+  a, a:link, a:visited {
+    color: $content-link-text-color;
+    text-decoration: underline;
+  }
+
+  .children {
+    border-top: 1px solid rgba(240,240,240,1);
+    margin-top: 3rem;
+  }
+
+}

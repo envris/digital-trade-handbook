@@ -1,0 +1,30 @@
+.breadcrumbs {
+  border-bottom: 1px solid rgba(240,240,240,1);
+
+  padding-bottom: .85rem;
+  margin-bottom: 1.5rem;
+
+  font-size: .85rem;
+
+  li {
+    display: inline-block;
+    padding-right: .3rem;
+
+    &::after {
+      content: '->';
+      color: #aaa;
+      padding-left: .4rem;
+    }
+    &:last-of-type::after {
+      content: none;
+    }
+  }
+
+  a, a:link, a:visited {
+    color: #666;
+
+    &:hover {
+      color: #111;
+    }
+  }
+}

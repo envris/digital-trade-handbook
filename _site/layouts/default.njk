@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>{{ title }} - {{ siteTitle }}</title>
+  <link href="{{ '/assets/css/dist.css' | url }}" type="text/css" rel="stylesheet">
+  <script src="{{ '/assets/js/dist.js' | url }}"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <header>
+    <h1>
+      <a href="{{ '/' | url }}">
+        <i class="icon"></i>
+        {{ siteTitle }}
+      </a>
+    </h1>
+  </header>
+
+  <div class="container">
+    <nav class="global">
+      <h1>Menu</h1>
+      {{ collections.all | eleventyNavigation("/") | eleventyNavigationToHtml({
+        listItemHasChildrenClass: "has-children",
+        activeListItemClass: "selected",
+        activeKey: eleventyNavigation.key
+      }) | safe }}
+    </nav>
+
+    <main>
+      {% include 'breadcrumbs.njk' %}
+
+      <div class="content">
+        <h1 class="title">{{ title }}</h1>
+
+        {{ content | safe }}
+
+        {% include 'children.njk' %}
+      </div>
+    </main>
+  </div>
+</body>
+
+</html>

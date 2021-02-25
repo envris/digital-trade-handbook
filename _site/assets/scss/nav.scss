@@ -1,0 +1,119 @@
+nav.global {
+  background: #eee;
+  padding-top: 1rem;
+  background: rgba(245, 245, 245, 0.9);
+
+  li {
+    a {
+      display: block;
+      padding: .7rem 2rem .7rem 1rem;
+      font-size: .85rem;
+      text-decoration: none;
+      color: #000;
+      line-height: 1.3;
+
+      &:hover {
+        background: rgba(225,225,225,1);
+      }
+    }
+
+    &.selected > a {
+      background: $navigation-selected-item-bg-color;
+      color: $navigation-selected-item-text-color;
+    }
+  }
+
+  li.has-children > ul {
+    margin-left: 1rem;
+
+    li a {
+      font-size: .75rem;
+      border-left: 1px solid #bbb;
+    }
+    li.selected > a {
+      border-left-color: #b0ddda;
+    }
+  }
+
+  .collapsible, &.collapsible {
+    position: relative;
+
+    &.has-children.closed > ul {
+      display: none;
+    }
+
+    &.has-children.open > ul {
+      display: block;
+    }
+
+    .toggle {
+      @extend .fas;
+
+      display: inline-block;
+      height: 1.5rem;
+      width: 1.5rem;
+
+      position: absolute;
+      top: .61rem;
+      right: .3rem;
+
+      font-size: .8rem;
+      color: $navigation-unselected-chevron-color;
+
+      padding: .25rem;
+
+      cursor: pointer;
+    }
+
+    @media (max-width: $mobile-breakpoint) {
+      &.has-children .toggle {
+        top: .9rem;
+      }
+    }
+
+    &.selected > .toggle {
+      color: $navigation-selected-item-text-color;
+    }
+
+    &.closed > h1 > .toggle, &.closed > .toggle {
+      @extend .fa-chevron-right;
+      right: .2rem;
+    }
+
+    &.open > h1 > .toggle, &.open > .toggle {
+      @extend .fa-chevron-down;
+    }
+  }
+
+  > h1 {
+    display: none;
+  }
+
+  @media (max-width: $mobile-breakpoint) {
+    padding: 0rem;
+
+    > h1 {
+      display: block;
+      font-size: .85rem;
+      font-weight: bold;
+      background: $subheader-bg-color;
+      color: $base-text-color;
+      height: 2.5rem;
+      margin: 0;
+      padding: .75rem 2rem .7rem 1.5rem;
+    }
+
+    &.collapsible h1 > .toggle {
+      color: $base-text-color;
+    }
+
+    > ul > li > a {
+      padding: 1rem 2rem 1rem 1.5rem;
+    }
+
+    li.has-children > ul {
+      margin-left: 1.5rem;
+    }
+  }
+
+}

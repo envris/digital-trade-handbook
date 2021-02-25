@@ -1,0 +1,7 @@
+{% set breadcrumbPages = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}
+
+{%- if breadcrumbPages.length > 0 %}
+  <div class="breadcrumbs">
+    {{ breadcrumbPages | eleventyNavigationToHtml | safe }}
+  </div>
+{%- endif %}

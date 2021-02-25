@@ -1,0 +1,34 @@
+@mixin callout {
+  padding: .2rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: .4rem solid transparent;
+
+  p {
+    margin: 1.25rem 0;
+  }
+}
+
+main .content {
+
+  .callout-info {
+    @include callout;
+
+    background: #eff9ff;
+    border-left-color: #009ef0;
+  }
+
+  .callout-warning {
+    @include callout;
+
+    background: #fffcea;
+    border-left-color: #f79400;
+  }
+
+  .callout-alert {
+    @include callout;
+
+    background: #fff5ff;
+    border-left-color: #ff003e;
+  }
+
+}

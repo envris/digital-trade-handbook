@@ -7,7 +7,7 @@ const initCollapsibleNav = function () {
   const nav = document.querySelector('nav.global')
 
   const title = nav.querySelector('h1')
-  const toggle = createToggleEl(nav.classList, nav)
+  const toggle = createToggleEl(nav.classList, title)
 
   nav.classList.add('collapsible')
   nav.classList.add('closed')

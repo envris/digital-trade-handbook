@@ -1,5 +1,5 @@
 nav.global {
-  background: #eee;
+  background: $navigation-bg-color;
   padding-top: 1rem;
   background: rgba(245, 245, 245, 0.9);
 
@@ -31,7 +31,7 @@ nav.global {
       border-left: 1px solid #bbb;
     }
     li.selected > a {
-      border-left-color: #b0ddda;
+      border-left-color: $navigation-selected-item-border-left-color;
     }
   }
 

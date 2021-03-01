@@ -5,6 +5,10 @@ main {
     max-width: 650px;
     margin: 0 auto 4rem;
     line-height: 1.55;
+
+    @media (min-width: $mobile-breakpoint) {
+      min-height: 30rem;
+    }
   }
 
   h1.title {

@@ -1,0 +1,45 @@
+footer {
+  font-size: .8rem;
+  border-top: 1px solid #eee;
+  padding: 1rem 0 0;
+  margin: 1rem 0 1rem;
+  display: flex;
+  color: #999;
+
+  a, a:link, a:visited {
+    color: #777;
+
+    &:hover, &:active {
+      color: #333;
+    }
+  }
+
+  .edit-link, .copyright {
+    flex: 1;
+  }
+
+  .edit-link {
+    text-align: left;
+
+    i {
+      @extend .fab;
+      @extend .fa-github;
+      text-decoration: none;
+      padding-right: .3rem;
+    }
+  }
+
+  .copyright {
+    text-align: right;
+  }
+
+  @media (max-width: $mobile-breakpoint) {
+    display: block;
+
+    .edit-link, .copyright {
+      flex: 0;
+      text-align: left;
+      margin-bottom: .5rem;
+    }
+  }
+}

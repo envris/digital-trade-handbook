@@ -1,26 +1,22 @@
 header {
   background: $header-bg-color;
   color: $header-text-color;
+  border-bottom: .5rem solid $header-border-color;
 
   h1 {
-    font-size: 1.4rem;
-    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    font-weight: 400;
 
     a {
-      color: #fff;
+      color: $header-text-color;
       display: inline-block;
       text-decoration: none;
       padding: 1.1rem 1rem;
 
       &:hover {
-        color: #ebf3fc;
+        color: $header-text-hover-color;
       }
-    }
-
-    .icon {
-      @extend .fas;
-      @extend .fa-book-open;
-      padding-right: .5rem;
     }
   }
 }

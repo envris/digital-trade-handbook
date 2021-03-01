@@ -2,8 +2,9 @@
 
 @import "~@fontsource/inter/400.css";
 @import "~@fontsource/inter/700.css";
-@import "~@fontsource/fira-mono";
+@import "~@fontsource/fira-mono/400.css";
 
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
 @import '~@fortawesome/fontawesome-free/scss/fontawesome';
 @import '~@fortawesome/fontawesome-free/scss/solid';
 @import '~@fortawesome/fontawesome-free/scss/regular';

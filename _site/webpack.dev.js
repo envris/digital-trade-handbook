@@ -1,7 +1,7 @@
 // Based on https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/ and
 //    https://github.com/brycewray/eleventy_bundler/blob/master/webpack.dev.js
 
-const merge = require('webpack-merge')
+const { merge } = require('webpack-merge')
 const common = require('./webpack.config.js')
 const BrowserSyncPlugin = require('browser-sync-webpack-plugin')
 

@@ -1,11 +1,8 @@
 const path = require('path')
 
-const JsConfigWebpackPlugin = require('js-config-webpack-plugin')
-const ScssConfigWebpackPlugin = require('scss-config-webpack-plugin')
-const FontConfigWebpackPlugin = require('font-config-webpack-plugin')
-const ImageConfigWebpackPlugin = require('image-config-webpack-plugin')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const CopyPlugin = require('copy-webpack-plugin')
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 module.exports = {
   entry: './assets/js/app.js',
@@ -13,17 +10,16 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'build/assets'),
     filename: 'js/dist.js',
-    publicPath: '/assets/'
+    publicPath: '/assets/',
+    assetModuleFilename: 'images/[hash][ext][query]'
+  },
+  devServer: {
+    contentBase: path.join(__dirname, 'dist')
   },
   plugins: [
     new CleanWebpackPlugin(),
-    new JsConfigWebpackPlugin(),
-    new ScssConfigWebpackPlugin({
-      filename: 'css/dist.css'
-    }),
-    new ImageConfigWebpackPlugin(),
-    new FontConfigWebpackPlugin({
-      name: 'fonts/[name].[ext]'
+    new MiniCssExtractPlugin({
+      filename: 'css/[name]-[chunkhash].css'
     }),
     new CopyPlugin({
       patterns: [
@@ -34,16 +30,35 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(eot|ttf)$/,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              name: '[name].[ext]',
-              outputPath: 'fonts/'
-            }
+        test: /\.m?js$/,
+        exclude: /(node_modules|bower_components)/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env']
           }
+        }
+      },
+      {
+        test: /\.s[ac]ss$/i,
+        use: [
+          process.env.NODE_ENV !== 'production'
+            ? 'style-loader'
+            : MiniCssExtractPlugin.loader,
+          'css-loader',
+          'sass-loader'
         ]
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: 'asset/resource'
+      },
+      {
+        test: /\.(woff|woff2|eot|ttf|otf)$/i,
+        type: 'asset/resource',
+        generator: {
+          filename: 'fonts/[hash][ext][query]'
+        }
       }
     ]
   }

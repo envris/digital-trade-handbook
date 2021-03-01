@@ -3,23 +3,25 @@ on: [push]
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: _site
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-        with:
-          persist-credentials: false
+      - uses: actions/checkout@v2
 
-      - uses: bahmutov/npm-install@v1
+      - uses: actions/setup-node@v2
         with:
-          working-directory: _site
+          node-version: '14'
 
-      - name: Build site 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
-        run: |
-          cd _site/
-          mkdir -p build/
-          npm run clean
-          npx @11ty/eleventy --pathprefix=${GITHUB_REPOSITORY#*/}
-          webpack
+      - run: yarn install
+
+      - run: mkdir -p build/
+
+      - run: yarn clean
+
+      - run: npx @11ty/eleventy --pathprefix=${GITHUB_REPOSITORY#*/}
+
+      - run: npx webpack
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3

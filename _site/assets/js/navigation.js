@@ -12,8 +12,6 @@ const initCollapsibleNav = function () {
   nav.classList.add('collapsible')
   nav.classList.add('closed')
   title.prepend(toggle)
-
-  // title.addEventListener('click', (e) => toggle.dispatchEvent(new CustomEvent('click')))
 }
 
 const initParentLists = function () {

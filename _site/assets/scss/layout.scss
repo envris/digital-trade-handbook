@@ -26,7 +26,11 @@ html {
 
 header {
   width: 100%;
-  min-height: 4rem;
+  min-height: 6rem;
+
+  @media (max-width: $mobile-breakpoint) {
+    min-height: 5rem;
+  }
 }
 
 .container {

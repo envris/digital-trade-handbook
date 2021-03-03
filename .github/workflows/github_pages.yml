@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NODE_ENV: production
+      PATH_PREFIX: /${GITHUB_REPOSITORY}
     defaults:
       run:
         working-directory: _site

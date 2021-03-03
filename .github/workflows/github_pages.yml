@@ -23,7 +23,7 @@ jobs:
 
       - run: npx @11ty/eleventy --pathprefix=${GITHUB_REPOSITORY#*/}
 
-      - run: PATH_PREFIX=/${GITHUB_REPOSITORY} npx webpack
+      - run: PATH_PREFIX=/${GITHUB_REPOSITORY#*/} npx webpack
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3

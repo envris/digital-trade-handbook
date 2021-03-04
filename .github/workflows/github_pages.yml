@@ -22,9 +22,9 @@ jobs:
 
       - run: yarn clean
 
-      - run: npx @11ty/eleventy --pathprefix=${GITHUB_REPOSITORY#*/}
+      - run: npx @11ty/eleventy
 
-      - run: PATH_PREFIX=/${GITHUB_REPOSITORY#*/} npx webpack
+      - run: npx webpack
 
       - run: echo ${CNAME} > build/CNAME
 

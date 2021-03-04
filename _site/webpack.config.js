@@ -4,15 +4,13 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const CopyPlugin = require('copy-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
-const pathPrefix = process.env.PATH_PREFIX
-
 module.exports = {
   entry: './assets/js/app.js',
   mode: 'production',
   output: {
     path: path.resolve(__dirname, 'build/assets'),
     filename: 'js/dist.js',
-    publicPath: pathPrefix + '/assets/',
+    publicPath: '/assets/',
     assetModuleFilename: 'images/[hash][ext][query]'
   },
   devServer: {

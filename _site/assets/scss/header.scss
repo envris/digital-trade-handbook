@@ -27,6 +27,10 @@ header {
     @media (max-width: $mobile-breakpoint) {
       font-size: .9rem;
 
+      @media (max-width: 320px) {
+        font-size: .8rem;
+      }
+
       span {
         padding-bottom: .4rem;
       }

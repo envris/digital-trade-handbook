@@ -10,8 +10,12 @@ body {
   padding: 0;
 
   min-height: 100vh;
-  min-height: -webkit-fill-available;
-  max-height: -webkit-fill-available;
+  max-height: 100vh;
+
+  @media (max-width: $mobile-breakpoint) {
+    min-height: -webkit-fill-available;
+    max-height: -webkit-fill-available;
+  }
 
   line-height: 1.2;
 
@@ -20,8 +24,13 @@ body {
 }
 
 html {
-  min-height: -webkit-fill-available;
-  max-height: -webkit-fill-available;
+  min-height: 100vh;
+  max-height: 100vh;
+
+  @media (max-width: $mobile-breakpoint) {
+    min-height: -webkit-fill-available;
+    max-height: -webkit-fill-available;
+  }
 }
 
 header {

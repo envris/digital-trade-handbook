@@ -51,7 +51,7 @@ nav.global {
 
       display: inline-block;
       height: 1.5rem;
-      width: 1.5rem;
+      width: 2.5rem;
 
       position: absolute;
       top: .61rem;
@@ -60,7 +60,7 @@ nav.global {
       font-size: .8rem;
       color: $navigation-unselected-chevron-color;
 
-      padding: .25rem;
+      padding: 0.25rem 0.25rem 0.25rem 1.25rem;
 
       cursor: pointer;
     }
@@ -114,6 +114,10 @@ nav.global {
     li.has-children > ul {
       margin-left: 1.5rem;
     }
+  }
+
+  > ul > li:last-of-type {
+    margin-bottom: 2rem;
   }
 
 }

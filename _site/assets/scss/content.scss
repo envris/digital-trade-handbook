@@ -9,6 +9,10 @@ main {
     @media (min-width: $mobile-breakpoint) {
       min-height: 30rem;
     }
+
+    @media (max-width: $mobile-breakpoint) {
+      font-size: .9rem;
+    }
   }
 
   h1.title {
@@ -18,7 +22,8 @@ main {
     line-height: 1.25;
 
     @media (max-width: $mobile-breakpoint) {
-      margin: 1rem 0 2rem;
+      margin: 1rem 0 1.5rem;
+      font-size: 1.5rem;
     }
   }
 

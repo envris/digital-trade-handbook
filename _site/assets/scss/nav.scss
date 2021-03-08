@@ -69,6 +69,10 @@ nav.global {
       &.has-children .toggle {
         top: .9rem;
       }
+
+      &.has-children .has-children .toggle {
+        top: .6rem;
+      }
     }
 
     &.selected > .toggle {

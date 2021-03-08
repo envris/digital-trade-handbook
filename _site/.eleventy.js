@@ -4,7 +4,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin)
 
   const markdownIt = require('markdown-it')
-  const md = markdownIt()
+  const mdOptions = {
+    html: true
+  }
+  const md = markdownIt(mdOptions)
 
   md.use(require('markdown-it-anchor'))
 

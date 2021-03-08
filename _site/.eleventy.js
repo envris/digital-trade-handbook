@@ -14,7 +14,8 @@ module.exports = function (eleventyConfig) {
   md.use(require('markdown-it-emoji'))
 
   md.use(require('markdown-it-table-of-contents'), {
-    containerHeaderHtml: '<h1>On this page:</h1>'
+    containerHeaderHtml: '<h1>On this page:</h1>',
+    listType: 'ol'
   })
 
   md.use(require('markdown-it-link-attributes'), [{

@@ -17,6 +17,13 @@ module.exports = function (eleventyConfig) {
     containerHeaderHtml: '<h1>On this page:</h1>'
   })
 
+  md.use(require('markdown-it-link-attributes'), [{
+    pattern: /^https?:\/\//,
+    attrs: {
+      rel: 'external'
+    }
+  }])
+
   md.use(require('markdown-it-container'), 'info', {
     validate: function (params) {
       return params.trim().match(/^info(.*)$/)

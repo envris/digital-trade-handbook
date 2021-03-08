@@ -9,7 +9,11 @@ module.exports = function (eleventyConfig) {
   }
   const md = markdownIt(mdOptions)
 
-  md.use(require('markdown-it-anchor'))
+  md.use(require('markdown-it-anchor'), {
+    permalink: true,
+    permalinkBefore: true,
+    permalinkSymbol: '#'
+  })
 
   md.use(require('markdown-it-emoji'))
 

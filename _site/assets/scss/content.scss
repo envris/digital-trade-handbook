@@ -126,6 +126,24 @@ main {
     &:hover, &:active {
       color: $content-link-hover-color;
     }
+
+    &.header-anchor {
+      float: left;
+      margin-left: -1.7rem;
+      font-size: .8em;
+      padding-top: .2em;
+      text-decoration: none;
+      font-weight: normal;
+      color: #ccc;
+
+      &:hover, &:active {
+        color: $content-link-hover-color;
+      }
+
+      @media (max-width: $mobile-breakpoint) {
+        margin-left: -.9rem;
+      }
+    }
   }
 
   .children {

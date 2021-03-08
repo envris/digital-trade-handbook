@@ -120,6 +120,10 @@ main {
   a, a:link, a:visited {
     color: $content-link-text-color;
     text-decoration: underline;
+
+    &:hover, &:active {
+      color: $content-link-hover-color;
+    }
   }
 
   .children {

@@ -14,6 +14,8 @@ The product manager plays a leading role in:
 
 The product manager works closely with the [delivery manager](../delivery-manager/) to make sure the team are working to achievable goals and are on track to deliver.
 
+[[toc]]
+
 
 # Setting the vision and roadmap
 

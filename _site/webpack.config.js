@@ -3,6 +3,7 @@ const path = require('path')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const CopyPlugin = require('copy-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 
 module.exports = {
   entry: './assets/js/app.js',
@@ -25,6 +26,10 @@ module.exports = {
       patterns: [
         { from: './assets/images/', to: 'images' }
       ]
+    }),
+    new HtmlWebpackPlugin({
+      filename: '../404.html',
+      template: 'assets/static/404.ejs'
     })
   ],
   module: {

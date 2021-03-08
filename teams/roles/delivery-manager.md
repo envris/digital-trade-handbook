@@ -5,7 +5,7 @@ order: 2
 
 The delivery manager is responsible for making sure the team is set up to deliver.
 
-Their role includes:
+The role includes:
 
 * helping the team to create an environment of continuous improvement
 * making sure what's in the backlog can be delivered

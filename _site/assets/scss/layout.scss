@@ -23,6 +23,10 @@ body {
   flex-direction: column;
 }
 
+@include only_ie11( 'body', (
+  display: block,
+));
+
 html {
   min-height: 100vh;
   max-height: 100vh;

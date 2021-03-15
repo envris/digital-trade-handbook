@@ -54,13 +54,13 @@
   },
   "babel": {
     "presets": [
-      ["@babel/preset-env", {
-        "targets": {
-          "browsers": ["last 2 versions", "ie >= 11"]
-        }
-      }]
+      "@babel/preset-env"
     ]
   },
+  "browserslist": [
+    "defaults",
+    "IE 11"
+  ],
   "eslintConfig": {
     "parser": "@babel/eslint-parser",
     "extends": [

@@ -73,7 +73,7 @@ main {
 
   blockquote {
     background: $blockquote-background-color;
-    border-left: 4px solid $base-color;
+    border-left: .4rem solid $blockquote-border-color;
     padding: .2rem 1.5rem;
     margin: 1.5rem 0;
 

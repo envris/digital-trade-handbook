@@ -60,9 +60,19 @@ In this situation, common approaches to breaking down the change into smaller pi
 
 Another common challenge is the speed at which your users - whether inside or outside the department - can adapt to your product's changes.
 
-This might be due to the need to change working practices, to make sure users are aware of the changes, or to give partners enough time to update their own systems and processes.
+This might be due to the need:
 
-There is no one-size-fits-all approach, but early planning to help your users more easily adapt to changes in your product will give you more flexibility in the future.
+* to change working practices of departmental staff
+* to make sure users are aware of the changes
+* to give partners enough time to update their own systems and processes
+
+The way in which this impacts your product, and the best way to respond, will be highly contextual to your users.
+
+Some opportunities to consider include:
+
+* increasing the visibility of your product's roadmap and upcoming features
+* doing targeted user research for particular changes to get early awareness of the pain points
+* maintaining old functionality for a limited time to help users in the transition
 
 
 

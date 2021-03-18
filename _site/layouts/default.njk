@@ -34,7 +34,13 @@
       {% include 'breadcrumbs.njk' %}
 
       <div class="content">
-        <h1 class="title">{{ title }}</h1>
+        <h1 class="title">
+          {%- if on_page_title %}
+            {{ on_page_title }}
+          {%- else %}
+            {{ title }}
+          {%- endif %}
+        </h1>
 
         {{ content | safe }}
 

@@ -1,35 +1,37 @@
----
-title: Home
-on_page_title: Digital Delivery Handbook
----
-
 ## Getting started
 
 This handbook is by the Taking Farmers to Markets service teams. This service is part of [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/). The department is part of the Australian Government.
 
-This handbook is for:
+This is for:
 * people in the department working with digital delivery teams
 * digital specialists who join our product teams, like developers, designers and user researchers
-* anyone in government who wants to improve their ways of working.
+* anyone in government who wants to develop their ways of working.
 
 The handbook describes the default way that we do things in our digital teams, to help you get started faster.
 
 ## Principles of digital delivery
 
-We focus on making a whole person's experience better before we
-improve the individual parts.
+When we talk about 'digital' we do not mean 'digitisation' (for example, scanning a paper form and emailing it).
 
-Our principles:
+Tom Loosemore, co-founder of the UK Government Digital Service, defined digital as:
+> applying the culture, processes, business models and technologies of the internet era to respond to people’s raised expectations.
+
+Digital is about transforming people's experiences by building services that meet their needs. This means improving the whole experience of a user, not individual parts. It also requires us to improve the platforms and experience of people in government that support the service.
+
+### Decision making framework
+We prioritise building the foundation of a complete experience. On that foundation we will deliver more complex user journeys.
+
+Our guide rails:
 * **Focus on user needs** even over internal requirements.
 * **Prioritise direct user value** even over generic capabilities.
 * **Deliver smaller, quicker increments** even over larger, complex releases.
 * **Make longer-term product and tech decisions** even over short-term fixes.
 
-## Digital Service Standard
+### Digital Service Standard
 
 We design and build services to meet the 13 criteria of the [Digital Service Standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria).
 
-These criteria follow human-centred thinking and agile ways of working. They help us create simple, clear and fast government services.
+These criteria follow human-centred thinking and agile ways of working. They help us create easy, fast, reliable and valuable services.
 
 ## Service design and delivery process
 
@@ -62,7 +64,7 @@ Agile is not only for software products or projects. Teams use agile in policy, 
 
 ## Roles in multidisciplinary teams
 
-We work in multidisciplinary teams. This means the teams hav all the roles needed to build and run a user-centred service. They have the power to make decisions about how to design and deliver the service.
+We work in multidisciplinary teams. This means the teams have all the roles needed to build and run a user-centred service. They have the power to make decisions about how to design and deliver the service.
 
 ### Core roles
 There are 7 core roles in a multidisciplinary team:

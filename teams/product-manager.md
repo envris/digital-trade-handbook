@@ -3,6 +3,7 @@ title: Product manager
 order: 1
 ---
 
+<!--
 The product manager leads the multi-disciplinary team to deliver a digital product or service that meets users' needs.
 
 The product manager plays a leading role in:
@@ -70,3 +71,5 @@ This sometimes includes:
 * checking if a feature has been released into the production environment
 * confirming that a fix has correctly addressed the issue
 * looking at analytics to understand if a new feature is meeting the user need
+
+-->

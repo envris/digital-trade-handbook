@@ -3,6 +3,7 @@ title: Delivery manager
 order: 2
 ---
 
+<!-- 
 The delivery manager is responsible for making sure the team is set up to deliver.
 
 The role includes:
@@ -63,3 +64,4 @@ This might be:
 In these situations, the delivery manager takes on the 'blockers', working to remove them so the team can continue to deliver.
 
 Great delivery managers develop an eye for spotting potential blockers on the horizon, and are able to head them off at the pass _before_ they hit the team.
+-->

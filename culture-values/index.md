@@ -11,6 +11,14 @@ When we talk about culture, we mean the values that underpin how people work, we
 
 Our culture is a set of values and norms we believe contribute to what we can achieve, and describes how we can achieve it together.
 
+We prioritise building the foundation of a complete experience. On that foundation we will deliver more complex user journeys.
+
+Our guide rails:
+* **Focus on user needs** even over internal requirements.
+* **Prioritise direct user value** even over generic capabilities.
+* **Deliver smaller, quicker increments** even over larger, complex releases.
+* **Make longer-term product and tech decisions** even over short-term fixes.
+
 ## Our values
 
 - [Inclusivity and accessibility](#inclusivity-accessibility)

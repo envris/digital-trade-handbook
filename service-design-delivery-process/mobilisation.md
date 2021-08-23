@@ -7,7 +7,7 @@ The purpose of Mobilisation is to establish teams and remove blockers to start d
 
 What to do in Mobilisation:
 - have the right roles in the team and understand how a multidisciplinary team works
-- understand human-centred design and why we need to own the whole user experience
+- understand human-centred design and why we need to focus on the whole user experience
 - understand agile delivery and how you will do budgeting and reporting when using agile
 - find stakeholders and subject matter experts
 - have all relevant reviews and approvals in place for your proposed research, have started your user research plan and are ready to start researching straight away

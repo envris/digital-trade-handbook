@@ -1,9 +1,8 @@
 ---
 title: Delivery manager
-order: 2
+order: 3
 ---
 
-<!-- 
 The delivery manager is responsible for making sure the team is set up to deliver.
 
 The role includes:
@@ -17,8 +16,7 @@ Delivery managers often help facilitate [regular team agile ceremonies](#), like
 
 [[toc]]
 
-
-# Delivery managers are not project managers
+## Delivery managers are not project managers
 
 If you're new to agile teams, it's important not to think of the delivery manager as a project manager. There are some significant differences.
 
@@ -29,7 +27,7 @@ Compared to a project manager, delivery managers:
 * are responsible for the ways of working and team health, not just the timeframes and deliverables
 
 
-# Supporting continuous improvement
+## Supporting continuous improvement
 
 The most important role the delivery manager plays in the team is in supporting a culture of continuous improvement.
 
@@ -42,7 +40,7 @@ This isn't just about mindset. There are some 'hard' enablers too, like:
 * making sure insights from users are regularly making their way into planning
 
 
-# Making sure the sprint can be delivered
+## Making sure the sprint can be delivered
 
 It's the delivery manager's job to make sure the team commits to the right amount of work each sprint. Too little, and the team will finish up the work early. Too much, and the team won't meet their sprint goals.
 
@@ -51,7 +49,7 @@ It's normal for this to create a healthy tension between the product manager and
 Teams that have worked together for enough sprints will get better at estimating the effort required for a given user story, and be able to calculate the _velocity_ of the team: the total effort the team can reasonably deliver in a sprint.
 
 
-# Removing blockers
+## Removing blockers
 
 No delivery team gets far without encountering obstacles in their path.
 
@@ -64,4 +62,3 @@ This might be:
 In these situations, the delivery manager takes on the 'blockers', working to remove them so the team can continue to deliver.
 
 Great delivery managers develop an eye for spotting potential blockers on the horizon, and are able to head them off at the pass _before_ they hit the team.
--->

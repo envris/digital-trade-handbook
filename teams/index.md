@@ -1,63 +1,83 @@
 ---
 title: Delivery teams
-order: 2
+order: 3
 ---
 
-A multidisciplinary team has the skills needed to understand and solve people's problems.
+A multidisciplinary team (MDT) has the skills needed to understand and solve people's problems.
 
-Everyone takes part in watching and analysing research with people so we develop empathy. This means we can make decisions grounded in the context of people and the problems they need to solve.
+Organisations traditionally put people with similar skills in the same functional areas. MDTs break these silos by combining people form different disciplines.
 
-Usually these 7 core roles are in multidisciplinary teams:
+MDTs follow human-centred design practices and agile approaches.
 
+Why we work in MDTs:
+- A broad range of skills and roles and quick decision-making processes mean the team can change and adapt as the service evolves
+- Teams can efficiently grow and retract as the service moves into different phases of development
+- Team members are given opportunities to stretch their own skillsets by working closely with other disciplines.
+
+## Roles in a multidisciplinary team
+
+MDTs can change in size, but maintain a core group to research, build, learn and improve. The MDT is led by an experienced product manager with decision-making responsibility.
+
+Usually there are 10 roles in multidisciplinary teams:
+
+* service manager
 * product manager
 * delivery manager
+* tech lead
+* subject matter expert
 * user researcher
 * service designer
 * content designer
 * interaction designer
 * developer.
 
-Roles will change through the stages to make sure the team has the right skills and can keep learning.
+The roles will change through the stages of the [service design and delivery process](./service-design-delivery-process/). This is to make sure the team has the right skills to keep learning.
 
-<!--
-We work in multi-disciplinary delivery teams - teams of cross-functional specialists who work together to deliver a product or service.
+### Service manager
+Experienced senior leader responsible for the overall delivery and operation of the service. Is responsible for the overall experience and ensuring the quality of the service.
 
-Typically, our teams:
+Involvement: across all stages, as needed.
 
-* are co-located together
-* are empowered to make decisions about the product or service
-* have all the roles in the team to scope, design and deliver a feature or improvement
+### Product manager
+Has overall responsibility for the product and team. Works with the team to create the vision for the product, and sets the day-to-day priorities to fulfil that vision and ensure the team delivers. Manages expectations and has input into service-level prioritisation.
 
-Teams are led by a [product manager](./roles/product-manager/) and [delivery manager](./roles/delivery-manager/).
+Involvement: across all stages.
 
-Read more about [the roles in the team](./roles/).
+### Delivery manager
+Supports the team, removes blockers to progress, and coaches the team on agile tools and processes.
 
+Involvement: across all stages.
 
-# The unit of delivery is the team
+### Tech lead
+The most senior technical person in the team. Helps to prioritise technical work and requirements, coaches technical team members, identifies technical options and informs architectural approaches.
 
-Teams that deliver great services are those that collaborate together and share ownership, even over the contribution of any one individual team member.
+Involvement: across all stages, as needed.
 
-This means that the whole team should take responsibility for things like:
+### Subject matter expert
+Provides in-depth expertise and high-level knowledge (as an authority) in a particular subject area, including policy, legal, regulatory, financial and other disciplines.
 
-* the user research
-* the design of the service
-* the quality of the code
+Involvement: across all stages, as needed.
 
+### User researcher
+Helps the team develop a deep understanding of users, their needs and helps test the service.
 
-# Most team members are full-time
+Involvement: across all stages.
 
-Most people in a delivery team are committed to the team full-time.
+### Service designer
+Works from the user research to identify how a service could be delivered so that it better meets user needs.
 
-Some team members, like [subject matter experts](./roles/subject-matter-expert/), may be part-time and considered "an extra hat to wear" in addition to your day-to-day role.
+Involvement: across all stages, particular focus in Discovery.
 
-On a rare occasion, a team member might be shared between multiple delivery teams.
+### Content designer
+Makes sure written, visual and interactive content is clear, accessible and meets user needs.
 
+Involvement: across all stages, particular focus in Alpha and Beta.
 
-# Teams stay together
+### Interaction designer 
+Responsible for designing accessible and user-focused digital interfaces, and making use of established design patterns.
+Involvement: across all stages, particular focus in Alpha and Beta.
 
-Where we can, we will set up ongoing teams to create and improve a product or service over a long period of time.
+### Developer
+Builds quality, well-tested software, sites and architecture according to standards and best practice. May take the role of tech lead if no other senior technical person is needed.
 
-This means that the knowledge about the product or service and its users stays within the team.
-
-It also helps the team to become well-practiced at working together to solve problems.
--->
+Involvement: across all stages, particular focus in Alpha and Beta.

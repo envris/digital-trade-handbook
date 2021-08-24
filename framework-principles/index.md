@@ -3,16 +3,32 @@ title: Digital transformation principles
 order: 2
 ---
 
-## Digitisation, digitalisation and digital transformation
+We prioritise building the foundations of a complete experience first.
 
-Tom Loosemore, co-founder of the UK Government Digital Service, defined digital as:
+If we build out our new capabilities block-by-block, we risk building services that reflect our own structures, not what users are trying to do. This also takes longer to get new services into the hands of users, increasing our risk.
+
+Instead - we prioritise steel threads that span the whole user experience. On that foundation we deliver more complex user journeys.
+
+These principles guide our decisions for delivery:
+* Focus on **user needs** even over internal requirements.
+* Prioritise **direct user value** even over generic capabilities.
+* Deliver **smaller, quicker increments** even over larger, complex releases.
+* Make **longer-term product and tech decisions** even over short-term fixes.
+
+[[toc]]]
+
+## Beyond digitisation and digitalisation
+<!--
+Tom Loosemore, co-founder of the UK Government Digital Service, defined 'digital' as:
 > applying the culture, processes, business models and technologies of the internet era to respond to people’s raised expectations.
-
+-->
 When we talk about 'digital transformation' we do not mean just 'digitisation' or 'digitalisation':
-- Digitisation is about going from an analogue to digital format (for example, a paper form to a PDF).
-- Digitalisation is using digital technology to change business model and processes.
+- 'Digitisation' is about going from an analogue to digital format (for example, a paper form to a PDF).
+- 'Digitalisation' is using digital technology to change business model and processes.
 
-Digital transformation is about improving people's experiences by building services that meet their needs. This means improving the whole experiences for people, not individual parts. It also requires us to improve the platforms and experience of people in government that support the service.
+'Digital transformation' is about improving people's experiences by building services that meet their needs. 
+
+This means improving the whole experiences for people, not individual parts. It also requires us to improve the platforms and experience of people in government that support the service.
 
 An example of the different levels:
 1. Digitisation: "Welcome to the online version of our paper form. Your permit will be issues by mail in 30 days."

@@ -10,9 +10,9 @@ The role includes:
 * helping the team to create an environment of continuous improvement
 * making sure what's in the backlog can be delivered
 * removing blockers and obstacles for the team
-* supporting governance, finances, resourcing and procurement
+* supporting governance, finances, resourcing and procurement.
 
-Delivery managers often help facilitate [regular team agile ceremonies](#), like sprint planning and retrospectives.
+Delivery managers often help facilitate regular team agile events, like sprint planning and retrospectives.
 
 [[toc]]
 
@@ -22,10 +22,9 @@ If you're new to agile teams, it's important not to think of the delivery manage
 
 Compared to a project manager, delivery managers:
 
-* are part of the team [for the long haul](../../#the-unit-of-delivery-is-the-team), not just a single project
+* are part of the team for the long haul, not just a single project
 * play an enabling role for the team over directing the work
-* are responsible for the ways of working and team health, not just the timeframes and deliverables
-
+* are responsible for the ways of working and team health, not just the timeframes and deliverables.
 
 ## Supporting continuous improvement
 
@@ -37,8 +36,7 @@ This isn't just about mindset. There are some 'hard' enablers too, like:
 
 * creating [a physical working environment for the team](https://www.gov.uk/service-manual/agile-delivery/create-agile-working-environment) that supports agile activities
 * setting up testing, change and deployment processes that help the team to release software frequently
-* making sure insights from users are regularly making their way into planning
-
+* making sure insights from users are regularly making their way into planning.
 
 ## Making sure the sprint can be delivered
 
@@ -46,8 +44,7 @@ It's the delivery manager's job to make sure the team commits to the right amoun
 
 It's normal for this to create a healthy tension between the product manager and delivery manager: the product manager wants to deliver as much as possible in a sprint, and the delivery manager wants to make sure that what's in the backlog can actually get done.
 
-Teams that have worked together for enough sprints will get better at estimating the effort required for a given user story, and be able to calculate the _velocity_ of the team: the total effort the team can reasonably deliver in a sprint.
-
+Teams that have worked together for enough sprints will get better at estimating the effort required for a given user story, and be able to calculate the 'velocity' of the team: the total effort the team can reasonably deliver in a sprint.
 
 ## Removing blockers
 
@@ -57,7 +54,7 @@ This might be:
 
 * an unexpected dependency with another team
 * a technical or operational hurdle
-* a last-minute issue raised by a stakeholder
+* a last-minute issue raised by a stakeholder.
 
 In these situations, the delivery manager takes on the 'blockers', working to remove them so the team can continue to deliver.
 

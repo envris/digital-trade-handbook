@@ -13,6 +13,8 @@ A successful MDT will have:
 - confidence to make decisions on the evidence
 - focus on significant outcomes over output and deliverables. 
 
+[[toc]]
+
 ## Teams are self managing 
 
 Strong teams are self-managing and made up of self-starters.
@@ -25,7 +27,9 @@ MDTs work best when the members have a real depth of capability in one area but 
 
 For example, a team member might be an expert content designer and also willing to flex their skills into development.
 
+::: info
 'T-shape' describes skill and ability; a person's vertical depth combined with their horizontal flexibility.
+:::
 
 Having T-shaped people in teams means that we bring together the deep expertise needed as well as collaborate to deliver outcomes beyond individual disciplines. 
 
@@ -51,9 +55,7 @@ This means that the whole team should take responsibility for things like:
 
 Everyone takes part in watching and analysing research with people so we develop empathy. This means we can make decisions grounded in the context of people and the problems they need to solve.
 
-Get all team members involved in regular user research and usability testing. This helps everyone involved develop empathy for the user and feel empowered to work together.
-
-## Members focus on one team
+## Most people stay in one team
 
 Most people in a delivery team are committed to the team full-time.
 
@@ -61,7 +63,7 @@ Some team members, like subject matter experts, may be part-time. Their contribu
 
 Occasionally a team member might be shared between multiple delivery teams.
 
-## Teams stay together
+## Teams keep together
 
 Where we can, we will set up ongoing teams to create and improve a product or service over a long period of time.
 

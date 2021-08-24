@@ -5,19 +5,11 @@ order: 1
 
 ## Digital culture
 
-Digital culture is not about technology, it is about people.
+Our digital culture is not about technology or about building apps. It is about people and their needs.
 
 When we talk about culture, we mean the values that underpin how people work, we are not describing the nuances of our culture. Our ways of working reflect our culture, and our culture is changed by each and every person we work with.
 
 Our culture is a set of values and norms we believe contribute to what we can achieve, and describes how we can achieve it together.
-
-We prioritise building the foundation of a complete experience. On that foundation we will deliver more complex user journeys.
-
-Our guide rails:
-* **Focus on user needs** even over internal requirements.
-* **Prioritise direct user value** even over generic capabilities.
-* **Deliver smaller, quicker increments** even over larger, complex releases.
-* **Make longer-term product and tech decisions** even over short-term fixes.
 
 ## Our values
 

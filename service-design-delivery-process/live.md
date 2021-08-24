@@ -1,4 +1,4 @@
 ---
-title: Live
+title: Live stage
 order: 5
 ---

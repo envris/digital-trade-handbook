@@ -1,8 +1,13 @@
-## Getting started
+## Taking Farmers to Markets service
 
 This handbook is by the Taking Farmers to Markets service teams. This service is part of the Australian Government [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/).
 
-This is for:
+Our mission:
+> Deliver easy, fast, reliable and valuable digital services for agricultural exporters.
+
+## Getting started
+
+This handbook is for:
 * people in the department working with digital delivery teams
 * digital specialists who join our product teams, like developers, designers and user researchers
 * anyone in government who wants to develop their ways of working.
@@ -22,5 +27,5 @@ Working in the open means:
 * this handbook is in progress and may change at any time
 * we regularly test the content with the teams that use it
 * all content is available for reuse under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-* we are extending what already exits, rather than duplicating (including [Digital Transformation Agency's Digital Guides](https://guides.service.gov.au/).
+* we are extending what already exits, rather than duplicating (including [Digital Transformation Agency's Digital Guides](https://guides.service.gov.au/) and [Service Handbook](https://ausdto.github.io/service-handbook/)).
 * contributions are welcome - see our guide to [editing the handbook](editing).

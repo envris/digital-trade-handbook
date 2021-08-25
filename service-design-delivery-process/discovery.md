@@ -63,7 +63,7 @@ User research is with your users of your service; consultation is with everyone 
 
 You’ll also need to learn about your users’ accessibility requirements.
 
-You will need to plan your user research approach. There are many ways to approach researching your users. Refer to user research methods on various methods that you may use.We recommend doing contextual research with people in their real-world environments.
+You will need to plan your user research approach. There are many ways to approach researching your users. Refer to user research methods on various methods that you may use. We recommend doing contextual research with people in their real-world environments.
 
 Involve the whole team in the research and analysis so that the entire team is developing a deep understanding of your users and of the ecosystem. This will help to enable better and faster decision making.
 

@@ -27,5 +27,5 @@ Working in the open means:
 * this handbook is in progress and may change at any time
 * we regularly test the content with the teams that use it
 * all content is available for reuse under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-* we are extending what already exits, rather than duplicating (including [Digital Transformation Agency's Digital Guides](https://guides.service.gov.au/) and [Service Handbook](https://ausdto.github.io/service-handbook/)).
+* we are extending what already exists, rather than duplicating (including [Digital Transformation Agency's Digital Guides](https://guides.service.gov.au/) and [Service Handbook](https://ausdto.github.io/service-handbook/)).
 * contributions are welcome - see our guide to [editing the handbook](editing).

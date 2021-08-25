@@ -33,7 +33,7 @@ This means improving the whole experiences for people, not individual parts. It 
 An example of the different levels:
 1. Digitisation: "Welcome to the online version of our paper form. Your permit will be issues by mail in 30 days."
 2. Digitalisation: "We've redesigned our operations. Everything is more efficient and smooth. Thanks for using our online form. Here's your permit."
-3. Digital transformation: "No more form - we've got data from other agencies you deal with. We've determined your risk level and you don't need a permit. By the way, you also quality for this grant."
+3. Digital transformation: "No more form - we've got data from other agencies you deal with. We've determined your risk level and you don't need a permit. By the way, you also qualify for this grant."
 
 ## Human-centred design
 

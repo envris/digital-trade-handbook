@@ -1,11 +1,19 @@
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
 
+// module.exports = function (eleventyConfig) {
+//   eleventyConfig.addPassthroughCopy('images')
+//   return {
+//       passthroughFileCopy: true
+//   }
+// }
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin)
 
   const markdownIt = require('markdown-it')
   const mdOptions = {
     html: true
+
   }
   const md = markdownIt(mdOptions)
 

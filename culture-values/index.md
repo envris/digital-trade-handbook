@@ -11,6 +11,8 @@ When we talk about culture, we mean the values that underpin how people work, we
 
 Our culture is a set of values and norms we believe contribute to what we can achieve, and describes how we can achieve it together.
 
+Culture is also reflected and created by the [words we use (and avoid)](./language/).
+
 ## Our values
 
 - [Inclusivity and accessibility](#inclusivity-accessibility)

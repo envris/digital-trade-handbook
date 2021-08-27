@@ -1,5 +1,5 @@
 ---
-title: Digital transformation principles
+title: Digital transformation strategy
 order: 2
 ---
 
@@ -43,6 +43,8 @@ We start with developing empathy for people. We test lots of ideas (hypotheses) 
 
 As we build, we keep testing our service with people to make sure we're building the right thing. When we release we keep listening to people to work out how to make the service better.
 
+## Design thinking
+
 ## Agile approaches
 
 We use agile approaches, rather than one fixed framework.
@@ -58,3 +60,5 @@ Agile frameworks are generally used by teams. But agile can scale from individua
 Teams that follow agile approaches work in the open. This means they encourage engagement, validation and feedback of their work. As a result, teams build from an evidence-based foundation. They also refine their approach based on new knowledge.
 
 Agile works for many different things. This includes, policy, education, manufacturing, military and other specialist fields.
+
+## Lean

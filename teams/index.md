@@ -90,6 +90,7 @@ Roles you may need to add to the team:
 
 - content strategist and information architect
 - business analyst
+- change management experts
 - web operations engineer
 - support operations staff
 - ethical hacker and IT security specialists

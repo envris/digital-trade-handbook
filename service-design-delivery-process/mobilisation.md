@@ -23,6 +23,8 @@ You need to do all of these things before you can start Discovery stage:
 
 Start preparing your recruitment briefs once you have identified your user base, as finding actual representative users can take some time. Aim to include a participant with a physical or cognitive challenge in this.
 
+Talk to the ResearchOps team for help recruiting users as soon as possible.
+
 If you don’t have everything ready to go, the team may be blocked for a long time. For example, ethical reviews and approvals on a user research plan might take several sprints of the team’s time.
 
 ## Finishing Mobilisation
@@ -30,6 +32,5 @@ If you don’t have everything ready to go, the team may be blocked for a long t
 At the end of Mobilisation, you should have:
 - all the roles needed in the team and plans for filling any gaps
 - identified the stakeholders and subject matter experts, and scheduled regular time for the team with them throughout Discovery
-- selected a user research recruitment agency, so that the user researchers can start researching with users in the first couple of weeks
 - found an open space  with plenty of wall space and whiteboards, and stationery (post-it notes, index cards and sharpie markers) for the team to co-locate during Discovery
 - checked that all the building facilities are ready for the team (access to the building, wifi, IT systems and printers)

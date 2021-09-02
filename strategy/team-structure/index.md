@@ -1,6 +1,6 @@
 ---
 title: Structure of teams
-order: 1
+order: 2
 ---
 
 ## Service lines

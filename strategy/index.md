@@ -61,4 +61,6 @@ Teams that follow agile approaches work in the open. This means they encourage e
 
 Agile works for many different things. This includes, policy, education, manufacturing, military and other specialist fields.
 
+Learn about the [benefits and principles of agile delivery](./agile).
+
 ## Lean

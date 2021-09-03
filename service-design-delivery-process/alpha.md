@@ -17,22 +17,33 @@ In Alpha, you:
 - take your hypotheses from Discovery stage and create some high-level concepts
 continue to develop a vision for the service using your user journey and user story map
 - create storyboards to see possible solutions
-- create prototypes to test hypotheses with users — you should explore hypotheses with different kinds of prototypes, including paper and HTML
+- create prototypes to test hypotheses with users — you should explore hypotheses with different kinds and fidelity of prototypes
 - keep updating your decision register, that contains the evidence that guides what you will build in Beta
 - identify service performance metrics
 - complete the stage by defining the minimum viable product.
 
-## Finding what works, not what's popular
+## Prototype to find what works, not what's popular
 
-In Alpha stage you are not validating what users like or dislike. You are finding out how well prototypes meet the actual needs of users.
+Alpha stage is not about validating what users like or dislike. You are finding out how well approaches will meet the actual needs of users.
 
 ::: alert
 Don't try to build a working service in Alpha stage. That comes in Beta stage.
 :::
 
+Cycle through higher and lower fidelity prototypes to test different hypotheses with people.
+
+Use the prototype fidelity that matches the resolution of the design approach:
+- Quick paper prototypes (low fidelity) help teams test lots of general approaches.
+- Wireframe prototypes (medium fidelity) allow teams to more deeply explore an approach, building on lower fidelity prototyping.
+- Coded prototypes (high fidelity) give teams awareness of interaction and accessibility barriers to an approach.
+
+People are more likely to provide broader feedback if you show them something that is low fidelity and rough. Use higher fidelity prototypes to get more detailed feedback on a higher resolution design approach.
+
 ## Defining the minimum viable product
 
-By the end of Alpha, you will need to have defined your Minimum Viable Product, or MVP. A MVP:
+By the end of Alpha, you will need to have defined your Minimum Viable Product, or MVP.
+
+An MVP:
 - provides value to users - it actually helps get something done
 - may focus on the specific needs of only a subset of users
 - works end-to-end along the ‘happy path’ (or ‘steel thread’)

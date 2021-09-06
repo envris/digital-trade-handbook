@@ -18,13 +18,13 @@ You will keep testing the service with users first in Private Beta and then Publ
 ### Development
 Your team should be using agile delivery practices, such as continuous integration and delivery, test-drive development, automation, incremental design, and pair programming.
 
-You should be using our [AWE design system](https://www.figma.com/file/SgSHfK8AUadp7aEzD34ZG3/AWE-Design-System-1.1.0?node-id=537%3A136).
+You should be using our design system.
 
 ### Privacy and security
 
 Comply with privacy legislation and principles.
 
-Test and verify the security of your digital services.
+Test and verify the security of your services.
 
 ### Design
 
@@ -59,7 +59,7 @@ Once you’ve improved the service and are confident you can run it at scale, yo
 
 Public Beta is when you open up your service to anyone who needs it.
 
-## Finishing Beta
+## Finishing Beta stage
 
 Your service is ready to move on to the Live stage when you are sure:
 - it meets user needs and delivers the full end-to-end user journey

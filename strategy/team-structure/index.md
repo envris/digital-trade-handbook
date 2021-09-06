@@ -3,7 +3,7 @@ title: Structure of teams
 order: 2
 ---
 
-## Taking Farmers to Markets service lines
+## Taking Farmers to Market service lines
 
 Our delivery teams are organised into 4 'service lines'.
 

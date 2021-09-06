@@ -13,7 +13,7 @@ There is no gap between sprints; a new sprint starts immediately after the previ
 
 ## Teams agree on a sprint pattern
 
-Most of our delivery teams work in sprints of 2 weeks (Tuesday to Wednesday). The department pay day is usually half way through 2-week sprints.
+Most of our delivery teams work in sprints of 2 weeks (Tuesday to Wednesday).
 
 Different cadences have pros and cons:
 - Long sprints can give the team more focused time, but may end with an invalid sprint goal.

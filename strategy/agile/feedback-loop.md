@@ -23,7 +23,7 @@ Even designing and testing the smallest of ideas with users will offer valuable 
 
 This requires a different approach to delivery: in mindset, planning and technology. It's all about planning for your plans to change.
 
-Agile feedback loops are based on the 'Deming cycle':
+Agile feedback loops are driven through the 'Deming cycle':
 
 - Plan - identify the problem and opportunities
 - Do - test your hypothesis

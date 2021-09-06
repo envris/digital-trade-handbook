@@ -1,5 +1,5 @@
 ---
-title: Digital transformation strategy
+title: Service transformation strategy
 order: 2
 ---
 
@@ -22,18 +22,17 @@ These principles guide our decisions for delivery:
 Tom Loosemore, co-founder of the UK Government Digital Service, defined 'digital' as:
 > applying the culture, processes, business models and technologies of the internet era to respond to people’s raised expectations.
 -->
-When we talk about 'digital transformation' we do not mean just 'digitisation' or 'digitalisation':
+When we talk about 'service transformation' we do not mean just 'digitisation' or 'digitalisation':
 - 'Digitisation' is about going from an analogue to digital format (for example, a paper form to a PDF).
 - 'Digitalisation' is using digital technology to change business model and processes.
-
-'Digital transformation' is about improving people's experiences by building services that meet their needs. 
+- 'Service transformation' is about improving people's experiences by building services that meet their needs. 
 
 This means improving the whole experiences for people, not individual parts. It also requires us to improve the platforms and experience of people in government that support the service.
 
 An example of the different levels:
 1. Digitisation: "Welcome to the online version of our paper form. Your permit will be issues by mail in 30 days."
 2. Digitalisation: "We've redesigned our operations. Everything is more efficient and smooth. Thanks for using our online form. Here's your permit."
-3. Digital transformation: "No more form - we've got data from other agencies you deal with. We've determined your risk level and you don't need a permit. By the way, you also qualify for this grant."
+3. Service transformation: "No more form - we've got data from other agencies you deal with. We've determined your risk level and you don't need a permit. By the way, you also qualify for this grant."
 
 ## Human-centred design
 

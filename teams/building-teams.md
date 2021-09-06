@@ -3,7 +3,7 @@ title: Building a team
 order: 1
 ---
 
-An empowered and gelled multidisciplinary team (MDT) is critical to digital transformation.
+An empowered and gelled multidisciplinary team (MDT) is critical to service transformation.
 
 A successful MDT will have:
 - balance of technical, subject matter and digital skills

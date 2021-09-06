@@ -19,7 +19,7 @@ The [Manifesto for Agile Software Development](https://agilemanifesto.org/) sets
 
 The manifesto originated as a better way to deliver software but its principles have been adopted in a wide range of non-technical use cases too.
 
-For teams delivering user-centred digital products and services, working in an agile way provides many advantages over methodologies traditionally used in government (waterfall or PRINCE2).
+For teams delivering user-centred products and services, working in an agile way provides many advantages over methodologies traditionally used in government (waterfall or PRINCE2).
 
 [[toc]]
 
@@ -27,7 +27,7 @@ For teams delivering user-centred digital products and services, working in an a
 
 Rather than waiting 3 or 4 years to deliver a polished, finished product to users for the first time, taking an agile approach requires you to deliver in small increments, early and often.
 
-This means users get access to new government digital services in months, not years. It gives you the ability to gather evidence early on of what is and is not working, before the biggest design and delivery decisions are yet to be made.
+This means users get access to new government services in months, not years. It gives you the ability to gather evidence early on of what is and is not working, before the biggest design and delivery decisions are yet to be made.
 
 We often launch new services as a [Public Beta](../../service-design-delivery-process/beta/). This makes clear to users and stakeholders that the service is new and still being improved.
 

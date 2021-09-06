@@ -1,9 +1,11 @@
 ---
-title: Taking Farmers to Markets service
+title: Taking Farmers to Market service
 order: 1
 ---
 
-This handbook is by the Taking Farmers to Markets service teams. This service is part of the Australian Government [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/).
+This handbook is by the Taking Farmers to Market service teams.
+
+This service is part of the Australian Government [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/).
 
 ## Mission statement
 > Deliver easy, fast, reliable and valuable digital services for agricultural exporters.
@@ -11,14 +13,14 @@ This handbook is by the Taking Farmers to Markets service teams. This service is
 ## Getting started
 
 This handbook is for:
-* people in the department working with digital delivery teams
-* digital specialists who join our product teams, like developers, designers and user researchers
+* people in the department working with our delivery teams
+* specialists who join our teams, like developers, designers and user researchers
 * anyone in government who wants to develop their ways of working.
 
-The handbook describes the default way that we do things in our digital teams, to help you get started faster.
+The handbook describes the default way that we do things in our teams, to help you get started faster.
 
 1. Learn about our [culture and values](./culture-values/) and [words we avoid](./culture-values/language/).
-2. Understand our [digital transformation strategy](./strategy/).
+2. Understand our [service transformation strategy](./strategy/).
 3. Find out why we work in [multidisciplinary delivery teams](./teams/).
 4. Find out how we apply the Digital Service Standard and follow the [service design and delivery process](./service-design-delivery-process/).
 

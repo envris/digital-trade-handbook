@@ -5,6 +5,8 @@ order: 1
 
 Mobilisation is the stage to establish teams and remove blockers to start Discovery stage.
 
+[[toc]]
+
 ## What to do in Mobilisation
 
 You need to do all of these things before you can start Discovery stage:

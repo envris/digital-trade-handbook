@@ -74,7 +74,7 @@ Makes sure written, visual and interactive content is clear, accessible and meet
 Involvement: across all stages, particular focus in Alpha and Beta.
 
 ## Interaction designer 
-Responsible for designing accessible and user-focused digital interfaces, and making use of established design patterns.
+Responsible for designing accessible and user-focused interfaces, and making use of established design patterns.
 Involvement: across all stages, particular focus in Alpha and Beta.
 
 ## Developer

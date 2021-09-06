@@ -3,7 +3,7 @@ title: Product manager
 order: 2
 ---
 
-The product manager leads the multi-disciplinary team to deliver a digital product or service that meets users' needs.
+The product manager leads the multi-disciplinary team to deliver a product or service that meets users' needs.
 
 The product manager plays a leading role in:
 

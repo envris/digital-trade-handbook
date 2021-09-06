@@ -7,6 +7,8 @@ In the Live stage, you actively maintain and monitor your service.
 
 You track the analytics and do user research to identify potential improvements.
 
+[[toc]]
+
 ## Before you go live
 
 Before you can make your service live, make sure the service meets the user needs you found in your Discovery, Alpha and Beta stages.
@@ -47,5 +49,5 @@ Tell other team members about your solutions, research, guides and tools.
 
 Share your work through:
 - team showcases
-- improvements to the [AWE design system](https://www.figma.com/file/SgSHfK8AUadp7aEzD34ZG3/AWE-Design-System-1.1.0?node-id=537%3A136)
+- improvements to our design system
 - [editing this handbook](/editing).

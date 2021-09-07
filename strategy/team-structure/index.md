@@ -5,9 +5,9 @@ order: 2
 
 ## Taking Farmers to Market service lines
 
-Our delivery teams are organised into 4 'service lines'.
+Our delivery teams are grouped in 4 service lines.
 
-Service lines are groups of related activities that need to happen for the service to work.
+'Service lines' are groups of related activities that need to happen for the service to work.
 
 ### Readiness
 

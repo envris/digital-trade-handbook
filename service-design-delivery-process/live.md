@@ -23,7 +23,7 @@ The team must:
 - continue to accurately measure and report the success of your service
 - plan for the transition or integration of any existing services that meet a similar user needs to yours
 - will be able to add redirects for URLs in the old service that will be deleted
-- can support the service and be able to keep iterating it and improving it until it’s retired
+- can support the service and be able to keep iterating it and improving it until it’s retired.
 
 ## What to do in Live stage
 
@@ -50,4 +50,4 @@ Tell other team members about your solutions, research, guides and tools.
 Share your work through:
 - team showcases
 - improvements to our design system
-- [editing this handbook](/editing).
+- [contributing to this handbook](/editing).

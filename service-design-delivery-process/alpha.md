@@ -18,9 +18,9 @@ In Alpha, you:
 continue to develop a vision for the service using your user journey and user story map
 - create storyboards to see possible solutions
 - create prototypes to test hypotheses with users — you should explore hypotheses with different kinds and fidelity of prototypes
-- keep updating your decision register, that contains the evidence that guides what you will build in Beta
+- keep updating your decision register that contains the evidence that guides what you will build in Beta stage
 - identify service performance metrics
-- complete the stage by defining the minimum viable product.
+- complete the stage by defining the minimum viable product (MVP).
 
 ## Prototype to find what works, not what's popular
 
@@ -52,15 +52,14 @@ An MVP:
 
 At the end of the Alpha stage, you should have:
 - user stories — they should relate to the overall user journey rather than being tied to individual features
-- a plan for your Beta stage and a less detailed plan for your Live stage (if deciding to continue)
+- a decision on whether to progress to Beta stage -  if so a plan for your Beta stage and a less detailed plan for your Live stage
 - a decision on the metrics you will use and a measurement plan for how to capture them
 - a basic working system with limited functionality that you can demonstrate to users
 - an understanding of legacy systems you need to replace or integrate with
-- a decision on whether to progress to Beta stage
 - analysis on the user needs research you have done
-- a decision on your minimum viable product
+- a decision on your minimum viable product.
 
 At this point, you can decide to:
 - move on to the Beta stage if your team is confident that you can create something that meets users’ needs and is cost effective, and you have the budget, capability and capacity to deliver the service
-- not to move onto Beta stage as the solution may not meet users’ needs and is not cost effective
+- not to move onto Beta stage, if the solution may not meet user needs and is not cost effective
 - start a new Discovery stage.

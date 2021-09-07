@@ -17,21 +17,21 @@ A successful MDT will have:
 
 ## Teams are self managing 
 
-Strong teams are self-managing and made up of self-starters.
+Strong teams are self-managing and made up of self starters.
 
 Each member takes ownership of the things they can complete, while still working towards common goals.
 
 ## Members have depth and flexibility (T shape)
 
-MDTs work best when the members have a real depth of capability in one area but willingness to flex in others.
+MDTs work best when the members have a real depth of capability in one area and willingness to flex in others.
 
 For example, a team member might be an expert content designer and also willing to flex their skills into development.
 
 ::: info
-'T-shape' describes skill and ability; a person's vertical depth combined with their horizontal flexibility.
+'T-shape' describes skill and ability: a person's vertical depth, combined with their horizontal flexibility.
 :::
 
-Having T-shaped people in teams means that we bring together the deep expertise needed as well as collaborate to deliver outcomes beyond individual disciplines. 
+Having T-shaped people in teams means that we bring together the deep expertise needed, as well as collaborating to deliver outcomes beyond individual disciplines. 
 
 ## Skill sets are valued over public service hierarchy
 
@@ -63,10 +63,10 @@ Some team members, like subject matter experts, may be part-time. Their contribu
 
 Occasionally a team member might be shared between multiple delivery teams.
 
-## Teams keep together
+## Teams stay together
 
 Where we can, we will set up ongoing teams to create and improve a product or service over a long period of time.
 
 This means that the knowledge about the product or service and its users stays within the team.
 
-It also helps the team to become well-practised at working together to solve problems.
+It also helps the team to get better at working together to solve problems.

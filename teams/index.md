@@ -34,7 +34,7 @@ Usually there are 10 roles in multidisciplinary teams:
 * developer.
 
 ## Service manager
-Experienced senior leader responsible for the overall delivery and operation of the service. Is responsible for the overall experience and ensuring the quality of the service.
+An experienced senior leader responsible for the overall delivery and operation of the service. They are responsible for the overall experience and ensuring the quality of the service.
 
 Involvement: across all stages, as needed.
 
@@ -69,12 +69,13 @@ Works from the user research to identify how a service could be delivered so tha
 Involvement: across all stages, particular focus in Discovery.
 
 ## Content designer
-Makes sure written, visual and interactive content is clear, accessible and meets user needs.
+Identifies the right format to meet people's needs. Makes sure written, visual and interactive content is clear, accessible and meets user needs.
 
 Involvement: across all stages, particular focus in Alpha and Beta.
 
 ## Interaction designer 
 Responsible for designing accessible and user-focused interfaces, and making use of established design patterns.
+
 Involvement: across all stages, particular focus in Alpha and Beta.
 
 ## Developer

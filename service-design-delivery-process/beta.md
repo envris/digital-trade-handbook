@@ -7,16 +7,21 @@ In Beta stage you focus on building the minimum viable product that you defined 
 
 The minimum viable product (MVP) is the simplest thing you can build that meets the user need.
 
-In Beta stage, the team builds an end-to-end service based on what they have learned in Alpha stage. They keep iterating until it is ready to test in a private Beta release and then a public Beta release.
+In Beta stage, the team builds an end-to-end service based on what they have learned in Alpha stage. They keep iterating until it is ready to test in a Private Beta release and then a Public Beta release.
 
-You will keep testing the service with users first in Private Beta and then Public Beta.
+You will keep testing the service with users in Private Beta and then Public Beta.
 
 [[toc]]
 
 ## What to do in Beta stage
 
 ### Development
-Your team should be using agile delivery practices, such as continuous integration and delivery, test-drive development, automation, incremental design, and pair programming.
+Your team should be using agile delivery practices:
+- continuous integration and delivery
+- test-drive development
+- automation
+- incremental design
+- pair programming.
 
 You should be using our design system.
 

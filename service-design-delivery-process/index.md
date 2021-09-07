@@ -15,8 +15,6 @@ Teams work through the 5-stage service design and delivery process:
 - [Beta stage](./beta) - teams build an end-to-end service based on what they learn in the Alpha stage.
 - [Live stage](./live) - teams maintain and improve the service.
 
-## Stage order can change
-
 The stages build on each other but they do not always go in order.
 
 For example, a team working on a service in Beta may move into a new Discovery stage to work on a different problem.

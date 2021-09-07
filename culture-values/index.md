@@ -7,9 +7,9 @@ order: 1
 
 Our culture is not about technology or building apps. It is about people and their needs.
 
-When we talk about culture, we mean the values that underpin how people work, we are not describing the nuances of our culture. Our ways of working reflect our culture, and our culture is changed by each and every person we work with.
+When we talk about culture, we mean the values that underpin how people work. We are not describing the nuances of our culture. Our ways of working reflect our culture, and our culture changes with every person we work with.
 
-Our culture is a set of values and norms we believe contribute to what we can achieve, and describes how we can achieve it together.
+Our culture is a set of values and norms that contributes to what we can achieve. It describes how we can achieve it together.
 
 Culture is also reflected and created by the [words we use (and avoid)](./language/).
 
@@ -33,7 +33,7 @@ We embrace a culture of vulnerability, and acknowledge feeling safe to be vulner
 
 Our teams are part of many ecosystems: our department, government, industry and so on.
 
-We work collaboratively across ecosystems to create the best outcomes for the people who use our services.
+We work together across ecosystems to create the best outcomes for the people who use our services.
 
 ### Open and transparent
 

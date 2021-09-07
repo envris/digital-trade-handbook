@@ -1,7 +1,5 @@
 name: Build and Deploy
 on: [push]
-  branches-ignore:
-    - 'prototype'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

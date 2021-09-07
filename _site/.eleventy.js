@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
   const markdownIt = require('markdown-it')
   const mdOptions = {
     html: true
+
   }
   const md = markdownIt(mdOptions)
 

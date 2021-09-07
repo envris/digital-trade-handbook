@@ -1,1 +1,1 @@
-module.exports = 'Digital Delivery Handbook'
+module.exports = 'Service Delivery Handbook'

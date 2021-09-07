@@ -1,38 +1,36 @@
 ---
-title: Home
-on_page_title: Digital Delivery Handbook
+title: Taking Farmers to Market service
+order: 1
 ---
 
-This handbook is intended for the _Busting Congestion for Agricultural Exporters_ program team at the [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/) in the Australian Government.
+This handbook is by the Taking Farmers to Market service teams.
 
-It's a guide to how we work, including:
+This service is part of the Australian Government [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/).
 
-* how our teams are organised
-* the agile and human-centred design processes we follow
-* our technology and design choices
+## Mission statement
+> Deliver easy, fast, reliable and valuable digital services for agricultural exporters.
 
-# The handbook is for two audiences
+## Getting started
 
-The handbook is for people in the department who might work with our digital delivery teams to deliver a product or service.
+This handbook is for:
+* people in the department working with our delivery teams
+* specialists who join our teams, like developers, designers and user researchers
+* anyone in government who wants to develop their ways of working.
 
-It explains why we take an agile approach to our work and what to expect when you work with our teams.
+The handbook describes the default way that we do things in our teams, to help you get started faster.
 
-The handbook is also for digital specialists who come to work in our product teams, like developers, designers and user researchers.
+1. Learn about our [culture and values](./culture-values/) and [words we avoid](./culture-values/language/).
+2. Understand our [service transformation strategy](./strategy/).
+3. Find out why we work in [multidisciplinary delivery teams](./teams/).
+4. Find out how we apply the Digital Service Standard and follow the [service design and delivery process](./service-design-delivery-process/).
 
-It describes the default way that we do things in our digital teams, to help you get started faster.
+## Handbook contribution and reuse
 
+We work on this handbook in the open. This makes it easier for our teams and partners to access, and easier for everyone to contribute to.
 
-# The handbook is a work in progress
-
-We're continuously creating and improving the handbook. We will adapt and extend it from the practices that emerge and what we learn along the way.
-
-At the moment, there will be pages that are missing or incomplete.
-
-You can help contribute to the handbook. See our guide to [editing the handbook](./about-handbook/editing/).
-
-
-# We're creating the handbook in the open
-
-The handbook is a public document, which makes it easier for our teams and partners to access, and easier for everyone to contribute to.
-
-It also lets others across government adapt and re-use our content.
+Working in the open means:
+* this handbook is in progress and may change at any time
+* we test the content with the teams that use it
+* all content is available for reuse under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+* we are extending what already exists, rather than duplicating (including [Digital Transformation Agency's Digital Guides](https://guides.service.gov.au/) and [Service Handbook](https://ausdto.github.io/service-handbook/)).
+* contributions are welcome - see our guide to [editing the handbook](editing).

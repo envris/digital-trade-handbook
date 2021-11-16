@@ -14,7 +14,7 @@ Please suggest other terms that should go here: [capability.team@agriculture.gov
 ## Plain language
 
 ::: alert
-We must make our service easy to understand and use so it available to everyone who needs it.
+We must make our service easy to understand and use so it is available to everyone who needs it.
 
 This is a [requirement of the Disability Discrimination Act 1992](https://www.stylemanual.gov.au/user-needs/accessibility-and-inclusion/agency-responsibilities-and-commitments#other_accessibility_guidance_and_standards).
 :::

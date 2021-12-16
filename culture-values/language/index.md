@@ -62,7 +62,7 @@ The words also have a religious connotation that support the myth that there is 
 
 Web portals are information sites, often focused on internal users. They compile information and content from different sources, and link to other places.
 
-Taking Farmers to Market is a transactional and informational service for agricultural exporters.
+Taking Farmers to Markets is a transactional and informational service for agricultural exporters.
 
 We are building this service to work with other government services the same people may need.
 

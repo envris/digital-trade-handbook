@@ -1,9 +1,9 @@
 ---
-title: Taking Farmers to Market service
+title: Taking Farmers to Markets service
 order: 1
 ---
 
-This handbook is by the Taking Farmers to Market service teams.
+This handbook is by the Taking Farmers to Markets service teams.
 
 This service is part of the Australian Government [Department of Agriculture, Water and the Environment](https://www.awe.gov.au/).
 

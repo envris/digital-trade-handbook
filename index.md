@@ -19,7 +19,7 @@ This handbook is for:
 
 The handbook describes the default way that we do things in our teams, to help you get started faster.
 
-1. Learn about our [culture and values](./culture-values/) and [words we avoid](./culture-values/language/).
+1. Learn about our [culture and values](./culture-values/) and [language guidelines](./culture-values/language/).
 2. Understand our [service transformation strategy](./strategy/).
 3. Find out why we work in [multidisciplinary delivery teams](./teams/).
 4. Find out how we apply the Digital Service Standard and follow the [service design and delivery process](./service-design-delivery-process/).

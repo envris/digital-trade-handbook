@@ -72,7 +72,7 @@ Many of the processes we follow and the tools we use in government talk about wo
 
 This is a problem only if we start thinking of the things we deliver for people as temporary projects. We are delivering and maintaining products and services for as long as they help.
 
-> Taking Farmers to Market is a service that people interact with using products.
+> Taking Farmers to Markets is a service that people interact with using products.
 >
 > To deliver the service and its products, we use processes and tools that talk about project work.
 

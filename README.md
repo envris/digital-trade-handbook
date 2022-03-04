@@ -1,6 +1,6 @@
 # Service Delivery Handbook
 
-This is the GitHub repository for the [Service Delivery Handbook][handbook-url] for the _Taking Farmers to Markets_ program in the Australian Government [Department of Agriculture, Water and the Environment][dawe-url].
+This is the GitHub repository for the [Service Delivery Handbook][handbook-url] for the _Taking Farmers to Markets_ program and Export service in the Australian Government [Department of Agriculture, Water and the Environment][dawe-url].
 
 We welcome contributions to the handbook, including pull requests. Read our [guide to editing the handbook][editing-url].
 

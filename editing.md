@@ -1,6 +1,6 @@
 ---
 title: Editing the handbook
-order: 5
+order: 6
 ---
 
 You are welcome to comment on and contribute to this handbook.

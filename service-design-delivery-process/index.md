@@ -1,6 +1,6 @@
 ---
 title: Service design and delivery process
-order: 4
+order: 5
 ---
 
 We design and build services to meet the [Digital Service Standard](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria).

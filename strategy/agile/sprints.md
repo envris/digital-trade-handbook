@@ -9,6 +9,8 @@ Sprints are repeating fixed length events of a month or less. The pattern of spr
 
 There is no gap between sprints; a new sprint starts immediately after the previous one.
 
+Read the [Taking Farmers to Market sprint schedule in SharePoint](https://deptagriculture.sharepoint.com/:x:/t/AG-CongestionBusting-DigitalTransformation/EfxbbBUgcLlKkgVqkyODONgBO6jIrRUXMAucackD-npgeg?e=h7dxEz).
+
 [[toc]]
 
 ## Teams agree on a sprint pattern

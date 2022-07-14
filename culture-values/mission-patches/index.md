@@ -15,7 +15,7 @@ This tradition began at NASA in the 1960s. Mission patch stickers are now used i
 
 The different colours focused into a light beam represents different parts of the product coming together. 
 
-![Export Service - public beta](/least-github-pages/assets/images/Export-Service_Public-beta.png)
+![Export Service - public beta](/assets/images/Export-Service_Public-beta.png)
 
 ### China Export Listing Service: 13 October 2021  
 

@@ -15,6 +15,8 @@ This tradition began at NASA in the 1960s. Mission patch stickers are now used i
 
 The different colours focused into a light beam represents different parts of the product coming together. 
 
+![Export Service - private beta](/least-github-pages/assets/images/Export-Service_Private-beta.png)
+
 ### China Export Listing Service: 13 October 2021  
 
 The worker bee represents the huge effort of the team, working together to deliver a service in 10 days. It also refers to honey, one of the non-prescribed goods included in the service. 

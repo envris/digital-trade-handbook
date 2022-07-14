@@ -1,86 +1,78 @@
 ---
-title: Language guidelines
-order: 1
+title: Mission patches
+order: 2
 ---
 
-These are guidelines for language that supports positive culture. They make it easier for everyone to understand what we are doing.
+We celebrate teamwork in different ways. Mission patch stickers are an important part of this. 
 
-For general style guidance, use the [department style guide on the intranet](https://ausgovenvironment.sharepoint.com/sites/AWE-intranet/SitePages/Forms-and-templates.aspx).
+When a team finishes a big delivery milestone, we celebrate by creating a unique patch. We give these stickers to the people who did the work, as a small - but meaningful - token of thanks. 
 
-Please suggest other terms that should go here: [capability.team@agriculture.gov.au](mailto:capability.team@agriculture.gov.au). Also please reach out if we can make any of this material clearer.
+This tradition began at NASA in the 1960s. Mission patch stickers are now used in many private and public organisations. 
 
-[[toc]]]
+## Our mission patches 
 
-## Plain language
+### Export Service - public beta: 17 December 2021
 
-::: alert
-We must make our service easy to understand and use so it is available to everyone who needs it.
+The different colours focused into a light beam represents different parts of the product coming together. 
 
-This is a [requirement of the Disability Discrimination Act 1992](https://www.stylemanual.gov.au/user-needs/accessibility-and-inclusion/agency-responsibilities-and-commitments#other_accessibility_guidance_and_standards).
-:::
+### China Export Listing Service: 13 October 2021  
 
-People prefer language that is familiar and easy to understand, so they can get things done. This helps the people using the service we are building, as well as our team members working on it.
+The worker bee represents the huge effort of the team, working together to deliver a service in 10 days. It also refers to honey, one of the non-prescribed goods included in the service. 
 
-Try to use plain everyday words and terms, instead of complex jargon.
+### Agriculture Export Service: private beta 30 June 2021  
 
-Take a look at examples of words to avoid and plain language alternatives:
+The iceberg represents the significant effort behind the scenes to support this release. 
 
-- [Australian Government Style Manual - Choose simple words, not complicated expressions](https://www.stylemanual.gov.au/writing-and-designing-content/clear-language-and-writing-style/plain-language-and-word-choice#choose_simple_words_not_complicated_expressions)
-- [GOV.UK Style Guide - words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
+The inspiration came from how the delivery manager described the team's effort. 
 
-## Inclusive language
+### Agriculture Export Service: Export Readiness - scaling to 50  
 
-The words we use reflect and reinforce what we believe about the world.
+The grown wheat represents services that are ready for release. The growing wheat around it represents many services that will release in the future. 
 
-We aren't perfect. But if we can use a different word, it can promote a better work culture. This can help to make everyone's daily interactions easier.
+The inspiration came from the senior designer of the team.  
 
-### Guys - use 'people' or 'team' instead
+## Design patches as a team 
 
-Using 'guys' to refer to everyone in a room or on a call supports an expectation that male gender is the default.
+Please follow this guidance. We would like all mission patches to have a clear and consistent style.  
 
-Using 'guys' is so common, it's a hard habit to break. But technology, ICT, design and other industries continue to suffer from gender imbalance. It's important to help address this.   
+Product managers can start the process of developing a patch. But it should be co-designed with the team. 
 
-Even if everyone in a group looks male, it doesn't mean they all are.
+### Agree on an image that tells a story 
 
-### Resources - use 'staff' or 'people' instead
+The patch should use a visual metaphor that everyone agrees represents one of these things: 
+- the service 
+- the team 
+- context 
+- challenges. 
 
-Resources are the things we use (for example, computers and stationery). Using the same word to talk about people can promote an expectation of treating them in the same way.
+Choose an image that makes sense to any user, but think beyond cliches (such as lightbulbs and dart boards). 
 
-Using 'resources' to talk about employing staff doesn't mean we think people are objects. But by choosing a different word we can help show we value the people we work with.
+Get inspiration from other people's patches: 
+- [Metaphors we sticker by - GOV.Design](https://medium.com/gov-design/metaphors-we-sticker-by-4e4ecdbf8d64)
+- [GOV.UK 17 October Mission Patch - Pinterest](https://www.pinterest.com.au/pin/303781937339933404/)
+- [Why mission patch stickers matter - Crydon Digital](https://croydon.digital/2020/01/16/why-mission-patch-stickers-matter-and-how-to-get-a-croydon-digital-one/)
 
-## Delivery terms
+Mission patches can use agricultural images, or not. 
 
-Some words create confusion about how we work in teams. There are more precise terms that can be more helpful.
+### Illustrate in a simple style 
 
-### Agile ceremonies and rituals - use 'events' instead
+Create the image in a simple and flat style, with a range of colours. 
 
-There is no one set of mandatory activities in agile. The words 'ceremony' and 'ritual' are not part of contemporary agile frameworks.
+Don't add lots of detail - give the hero element space and emphasis. 
 
-The words also have a religious connotation that support the myth that there is only one way to apply agile.
+The outer ring should only include: 
+- service name 
+- stage or milestone 
+- date. 
 
-### Portals - we are building a service
+### Design using a vector tool 
 
-Web portals are information sites, often focused on internal users. They compile information and content from different sources, and link to other places.
+Design the patch using a vector-based app. For example, Adobe Illustrator or Affinity Designer. 
 
-Taking Farmers to Markets is a transactional and informational service for agricultural exporters.
+Don't use raster or photo tools, like Photoshop. Also avoid Figma as it doesn't support wrapping text. 
 
-We are building this service to work with other government services the same people may need.
-
-### Projects - use 'products' and 'services' to describe what we deliver for people
-
-Many of the processes we follow and the tools we use in government talk about working on projects.
-
-This is a problem only if we start thinking of the things we deliver for people as temporary projects. We are delivering and maintaining products and services for as long as they help.
-
-> Taking Farmers to Markets is a service that people interact with using products.
->
-> To deliver the service and its products, we use processes and tools that talk about project work.
-
-### User testing - be precise about the approach you are using (for example, 'usability testing')
- 
-The term 'user testing' suggests we are testing how well people perform at using something. It can also imply we only test things after we completely finish building them.
-
-This isn't our intention when we talk about user testing. But if we choose a different word it can help promote a process of building empathy with people. It also encourages us to maintain this approach throughout design, delivery and maintenance.
-
-Being specific about our approach also helps other people to value our work.
-
+Artwork specifications: 
+- Patch size - 50mm diameter with 2mm bleed beyond the edge of sticker 
+- Font – Open Sans at least 9pt 
+- Image format - illustrations in CMYK colour space, and all fonts converted to outlines 
+- Print stock - full colour on white vinyl sticker 

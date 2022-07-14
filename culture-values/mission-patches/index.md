@@ -21,17 +21,23 @@ The different colours focused into a light beam represents different parts of th
 
 The worker bee represents the huge effort of the team, working together to deliver a service in 10 days. It also refers to honey, one of the non-prescribed goods included in the service. 
 
+![China Export Listing Service](/assets/images/China-NPG-Listing-Service.png)
+
 ### Agriculture Export Service: private beta 30 June 2021  
 
 The iceberg represents the significant effort behind the scenes to support this release. 
 
 The inspiration came from how the delivery manager described the team's effort. 
 
+![Export Service - private beta](/assets/images/Export-Service_Private-beta.png)
+
 ### Agriculture Export Service: Export Readiness - scaling to 50  
 
 The grown wheat represents services that are ready for release. The growing wheat around it represents many services that will release in the future. 
 
 The inspiration came from the senior designer of the team.  
+
+![Export Service - private beta scaling to 50](/assets/images/Export-Service_Private-beta-scale-to-50.png)
 
 ## Design patches as a team 
 

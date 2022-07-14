@@ -9,6 +9,8 @@ Our delivery teams are grouped in 4 service lines.
 
 'Service lines' are groups of related activities that need to happen for the service to work.
 
+Read the [program organisation chart in SharePoint (PPTX file)](https://deptagriculture.sharepoint.com/:p:/t/AG-CongestionBusting-DigitalTransformation/EYm9GYhhMmNPq812moMGhpUBDVrtuv1MdeBoo5DMPeh2NA?e=mFceXh).
+
 ### Readiness
 
 Everything a business needs to do to be ready and approved to export.

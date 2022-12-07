@@ -5,7 +5,7 @@ order: 1
 
 ## Program culture
 
-Our culture is not about technology or building apps. It is about people and their needs.
+Our culture is not about technology or building apps. It is about people and their needs
 
 When we talk about culture, we mean the values that underpin how people work. We are not describing the nuances of our culture. Our ways of working reflect our culture, and our culture changes with every person we work with.
 

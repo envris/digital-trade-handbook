@@ -1,4 +1,4 @@
-import { TextLink } from '@ag.ds-next/text-link';
+import { TextLink } from '@ag.ds-next/react/text-link';
 
 const ORG = 'envris';
 const REPO = 'digital-trade-handbook';

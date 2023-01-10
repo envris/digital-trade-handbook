@@ -1,10 +1,10 @@
 import { ComponentProps, PropsWithChildren } from 'react';
 import { useRouter } from 'next/router';
-import { PageContent, ContentBleed } from '@ag.ds-next/content';
-import { Flex, Stack } from '@ag.ds-next/box';
-import { Columns, Column } from '@ag.ds-next/columns';
-import { SideNav } from '@ag.ds-next/side-nav';
-import { Breadcrumbs } from '@ag.ds-next/breadcrumbs';
+import { PageContent, ContentBleed } from '@ag.ds-next/react/content';
+import { Flex, Stack } from '@ag.ds-next/react/box';
+import { Columns, Column } from '@ag.ds-next/react/columns';
+import { SideNav } from '@ag.ds-next/react/side-nav';
+import { Breadcrumbs } from '@ag.ds-next/react/breadcrumbs';
 import { EditPage } from './EditPage';
 
 export function PageLayout({

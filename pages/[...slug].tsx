@@ -1,9 +1,10 @@
+import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { MDXRemote } from 'next-mdx-remote';
-import { Prose } from '@ag.ds-next/prose';
-import { InpageNav } from '@ag.ds-next/inpage-nav';
+import { Prose } from '@ag.ds-next/react/prose';
+import { InpageNav } from '@ag.ds-next/react/inpage-nav';
 import { AppLayout } from '../components/AppLayout';
 import { DocumentTitle } from '../components/DocumentTitle';
-import { getMarkdownData, serializeMarkdown } from '../lib/mdxUtils';
+import { serializeMarkdown } from '../lib/mdxUtils';
 import { mdxComponents } from '../components/mdxComponents';
 import { PageLayout } from '../components/PageLayout';
 import {
@@ -15,18 +16,19 @@ import {
 import { PageTitle } from '../components/PageTitle';
 import { generateToc } from '../lib/generateToc';
 
-type StaticProps = Awaited<ReturnType<typeof getStaticProps>>['props'];
+type StaticProps = InferGetStaticPropsType<typeof getStaticProps>;
 
-export default function ContentPage({
+export default function Page({
+	editPath,
+	pageTitle,
 	sidebarItems,
 	source,
 	title,
 	toc,
-	editPath,
 }: StaticProps) {
 	return (
 		<>
-			<DocumentTitle />
+			<DocumentTitle title={pageTitle} />
 			<AppLayout>
 				<PageLayout
 					editPath={editPath}
@@ -55,19 +57,35 @@ export default function ContentPage({
 	);
 }
 
-export async function getStaticProps(ctx) {
-	const slug = ctx.params.slug;
+export const getStaticProps: GetStaticProps<
+	{
+		editPath: Awaited<ReturnType<typeof getEditPath>>;
+		pageTitle: string;
+		sidebarItems: Awaited<ReturnType<typeof getSidebarItems>>;
+		source: Awaited<ReturnType<typeof serializeMarkdown>>;
+		title: string;
+		toc: ReturnType<typeof generateToc>;
+	},
+	{ slug: string }
+> = async ({ params }) => {
+	const { slug } = params ?? {};
+
+	if (!Array.isArray(slug)) {
+		return { notFound: true };
+	}
+
 	const { content, data } = await getContentMarkdownData(slug);
 	return {
 		props: {
-			sidebarItems: await getSidebarItems(),
 			editPath: await getEditPath(slug),
-			title: data.title as string,
+			pageTitle: data.title as string,
+			sidebarItems: await getSidebarItems(),
 			source: await serializeMarkdown(content),
+			title: data.title as string,
 			toc: generateToc(content),
 		},
 	};
-}
+};
 
 export async function getStaticPaths() {
 	const paths = await getContentPaths();

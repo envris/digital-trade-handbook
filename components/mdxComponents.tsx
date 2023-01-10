@@ -1,8 +1,8 @@
 import { Fragment, HTMLAttributes, AnchorHTMLAttributes } from 'react';
 import type { MDXRemoteProps } from 'next-mdx-remote';
 import Link from 'next/link';
-import { proseBlockClassname } from '@ag.ds-next/prose';
-import { PageAlert, PageAlertProps } from '@ag.ds-next/page-alert';
+import { proseBlockClassname } from '@ag.ds-next/react/prose';
+import { PageAlert, PageAlertProps } from '@ag.ds-next/react/page-alert';
 import { slugify } from '../lib/slugify';
 
 export const mdxComponents: MDXRemoteProps['components'] = {

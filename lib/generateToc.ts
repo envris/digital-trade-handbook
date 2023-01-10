@@ -1,6 +1,6 @@
 import { slugify } from './slugify';
 
-export type HeadingDataRaw = {
+type HeadingDataRaw = {
 	title: string;
 	level: number;
 	slug: string;

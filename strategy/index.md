@@ -21,7 +21,7 @@ Service transformation is more than digitisation and digitalisation:
 
 - 'Digitisation' is about going from an analogue to digital format (for example, a paper form to a PDF).
 - 'Digitalisation' is using technology to change business model and processes.
-- 'Service transformation' is about improving people's experiences by building services that meet their needs. 
+- 'Service transformation' is about improving people's experiences by building services that meet their needs.
 
 Transforming a service means improving the whole experiences for people, not the individual parts. It also requires us to improve the platforms and experience of people in government that support the service.
 
@@ -35,15 +35,15 @@ Transforming a service means improving the whole experiences for people, not the
 
 We follow human-centred design. This means we involve the people we are designing for in every stage of the process.
 
-We start with developing empathy for people. We test lots of ideas (hypotheses) with these people to work out what we should build. As we build, we keep testing our service with people to make sure we're building the right thing. 
+We start with developing empathy for people. We test lots of ideas (hypotheses) with these people to work out what we should build. As we build, we keep testing our service with people to make sure we're building the right thing.
 
 As we release we keep listening to people to work out how to make the service better.
 
 ## Design thinking
 
-The design thinking mindset is a way of defining and solving complex problems by taking a human-centred approach. 
+The design thinking mindset is a way of defining and solving complex problems by taking a human-centred approach.
 
-Think of it as a methodology that helps you to identify and scope problems, understand people, challenge assumptions, and find new ways to solve problems. 
+Think of it as a methodology that helps you to identify and scope problems, understand people, challenge assumptions, and find new ways to solve problems.
 
 ## Agile approaches
 
@@ -63,4 +63,4 @@ Agile works for many different things. This includes, policy, education, manufac
 
 Learn about the [benefits and principles of agile delivery](./agile).
 
-Read the [department agile playbook (DOCX 1.456 MB)](https://deptagriculture.sharepoint.com/:w:/r/teams/AG-TradeReformPortfolioNetwork/Shared%20Documents/Portfolio%20reference%20documents/Agile/DRAFT%20Modern%20Ways%20of%20Working%20Agile%20Playbook.docx?d=wc4bc315c191d4a1abdb80dfd30e491b5&csf=1&web=1&e=vcoYCk).
+For more info, read the department agile playbook in SharePoint.
